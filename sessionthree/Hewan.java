@@ -1,4 +1,4 @@
-package sessionone;
+package sessionthree;
 
 public class Hewan {
     String nama;
